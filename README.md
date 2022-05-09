@@ -1,3 +1,3 @@
 # First smart contract using Solidity
 
-https://medium.com/nerd-for-tech/create-and-deploy-your-first-smart-contract-with-solidity-b11e6cfc7ac0
+https://medium.com/@codemaker2016/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e
